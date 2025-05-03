@@ -23,6 +23,7 @@ interface TextEditorProps {
 // List of web-safe fonts
 const fontOptions = [
   { value: "Arial", label: "Arial" },
+  { value: "Cambria", label: "Cambria" },
   { value: "Verdana", label: "Verdana" },
   { value: "Helvetica", label: "Helvetica" },
   { value: "Tahoma", label: "Tahoma" },
